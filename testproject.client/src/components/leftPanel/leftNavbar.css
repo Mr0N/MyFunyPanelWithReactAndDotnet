@@ -1,0 +1,55 @@
+.listNavbar
+{
+    list-style: none;
+    position: relative;
+    left: 0;
+    padding-left: 0;
+}
+.listNavbar li {
+
+    cursor: pointer;
+}
+.btn-nav-bar
+{
+    display: flex;
+    flex-direction: row;
+    color:white;
+    align-items: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+.btn-nav-bar > * {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+.btn-nav-bar:hover
+{
+    background-color:brown;
+}
+.head-nav
+{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    border-bottom: 1px;
+    border-color:gray;
+    border-bottom-style: solid;
+    position: relative;
+    left: 15px;
+    align-items: center;
+}
+.icon-heads
+{
+    background-color:white;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 25px;
+}
+.head-data{
+    flex-direction:row;
+    display: flex;
+    margin-left: 3px;
+}

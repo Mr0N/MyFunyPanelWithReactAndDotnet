@@ -1,0 +1,30 @@
+.leftPanel{
+    width: 20vw;
+    min-height: 100vh;
+    background-color:#343a40;
+}
+.rigthPanel
+{
+    width: 80vw;
+}
+.topNavBar
+{
+    background-color:white;
+    
+    display: flex;
+    flex-direction: row-reverse;
+}
+.bodyPanel
+{
+    
+    min-height: 80vh;
+}
+.buttonNavBar
+{
+    background-color:rgb(255, 255, 255);
+    
+}
+.contPanel{
+    display: flex;
+    flex-direction: row;
+}

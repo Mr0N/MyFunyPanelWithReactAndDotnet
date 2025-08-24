@@ -1,0 +1,25 @@
+.group-i
+{
+    display: flex;
+    flex-direction: column;
+}
+.container-group-i
+{
+    width: 20vw;
+}
+
+.input-form-login
+{
+    display: flex;
+    flex-direction: column;
+    width: 20vw;
+    gap: 4px;
+    position: absolute;
+    left: 38%;
+    top: 20%;
+    
+}
+.login-button
+{
+    width: 20vw;
+}

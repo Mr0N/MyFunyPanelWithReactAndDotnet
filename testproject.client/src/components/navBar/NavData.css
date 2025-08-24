@@ -1,0 +1,20 @@
+.nav-bar-info
+{
+    display: flex;
+    flex-direction: row;
+}
+.nav-i
+{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    position: relative;
+}
+.nav-left{
+    left: 0;
+}
+.nav-rigth
+{
+    right: 0;
+    left: 9%;
+}
